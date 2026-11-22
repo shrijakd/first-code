@@ -24,7 +24,7 @@ public class cntrlflow7 {
             }
         } while ( a == 1);
         System.out.println("You enter 0 so the program is stopped");
-        sc.close();
+        //sc.close();
 
     }
 }
